@@ -80,6 +80,10 @@
       "git add"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/icey830/elvnsa.git"
+  },
   "dependencies": {
     "global": "^4.3.2",
     "video.js": "^6 || ^7"
